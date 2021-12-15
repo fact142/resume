@@ -1,0 +1,54 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Resume component should render correctly 1`] = `
+Array [
+  " ",
+  <div
+    className="resume"
+  >
+    <p>
+      Имя: David
+    </p>
+    <p>
+      Фамилия: Lynch
+    </p>
+    <p>
+      Возраст: 75
+    </p>
+    <p>
+      Пол: undefined
+    </p>
+    <p>
+      Почта twinpeaks@lora.com
+    </p>
+    <p>
+      Направление: Genius
+    </p>
+    <p>
+      Адрес: Nobody, Knows
+    </p>
+    <p>
+      Телефон: 89825
+    </p>
+    <p>
+      Любимый фильм: Iron Man 2
+    </p>
+    <p>
+      З/п: 99
+    </p>
+    <p>
+      О себе: Love weather reports
+    </p>
+    <button
+      onClick={[Function]}
+    >
+      Редактировать
+    </button>
+    <button
+      onClick={[Function]}
+    >
+      Удалить
+    </button>
+  </div>,
+]
+`;
